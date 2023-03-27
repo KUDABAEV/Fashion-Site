@@ -1,0 +1,247 @@
+@media (max-width: 1170px){
+    .collusion__items{
+        margin: 133px 0 0 397px;
+    }
+    .category{
+        padding: 70px 0 93px 0;
+    }
+    .category__content{
+        display: block;
+    }
+    .category__img-left{
+        text-align: center;
+    }
+    .category__img-bottom{
+        justify-content: space-evenly;
+    }
+    .category__img-right{
+        display: none;
+    }
+    .fashions__items{
+        justify-content: space-around;
+    }
+    .avone{
+        padding-bottom: 20px;
+    }
+    .avone__img{
+        display: block;
+        text-align: center;
+    }
+    .avone__img-left{
+        padding-top: 0;
+    }
+    .avone__img-right{
+        display: none;
+    }
+    .tachen{
+        padding-top: 100px;
+    }
+
+}
+
+@media (max-width: 1000px){
+    .collusion__items{
+        margin: 70px 0 0 197px;
+    }
+    .footer__inner{
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+        padding: 114px 0 56px;
+    }
+    .updates{
+        padding-top: 35px;
+    }
+    .footer__gmail{
+        max-width:none;
+    }
+}
+
+
+
+@media (max-width: 769px){
+    .category__img-right{
+        display: block;
+    }
+    .tachen__inner{
+        text-align: center;
+    }
+}
+
+
+@media (max-width: 685px){
+    .collusion__items{
+        margin: 70px 0 0 97px;
+    }
+    .collusion__big-title{
+        font-size: 70px;
+        line-height: 90px;
+    }
+
+}
+
+
+@media (max-width: 575px){
+    .category__img-top img{
+        width: 451px;
+        height: 238px;
+    }
+    .category__img-bottom{
+        display: block;
+    }
+    .category__img-right{
+        min-width: 202px;
+        min-height: 225px;
+    }
+    .avone__img-left img{
+        width: 452px;
+        height: 502px;
+    }
+    .update__list-left{
+        padding-left: 44px;
+    }
+
+}
+
+
+
+@media (max-width: 560px){
+    .collusion__items{
+        margin: 50px 0 0 77px;
+    }
+    .collusion__big-title{
+        font-size: 50px;
+        line-height: 70px;
+    }
+    .collusion__text{
+        font-size: 14px;
+        line-height: 22px;
+    }
+}
+
+
+@media (max-width: 500px){
+    .collusion{
+        min-height: 500px;
+    }
+    .header__top{
+        margin-bottom: 20px;
+    }
+    .header__top-inner{
+        display: block;
+    }
+    .header__top-inner{
+        height: 80px;
+    }
+    .logo{
+        text-align: center;
+    }
+    .header__burger{
+        padding: 10px 0 0 10px;
+    }
+    .avone__img-left img{
+        width: 352px;
+        height: 402px;
+    }
+    .tachen__title{
+        font-size: 50px;
+        line-height: 90px;
+    }
+}
+
+@media (max-width: 475px){
+    .collusion__buttons-items{
+        display: block;
+    }
+    .collusion__button-item--modi{
+        padding: 10px 0 0 0;
+    }
+    .category__img-top img{
+        width: 351px;
+        height: 208px;
+    }
+    .category{
+        padding: 40px 0 63px 0;
+    }
+    .footer__copy{
+        font-size: 10px;
+        line-height: 16px;
+    }
+}
+
+@media (max-width: 450px){
+    .collusion{
+        min-height: 400px;
+    }
+    .collusion__items{
+        margin: 70px 0 0 57px;
+    }
+    .collusion__big-title{
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .collusion__text{
+        font-size: 10px;
+        line-height: 15px;
+    }
+    .collusion__button-item a button{
+        width: 247px;
+    }
+    .collusion__button-item{
+        text-align: center;
+    }
+    .collusion__small-title{
+        text-align: center;
+    }
+    .collusion__big-title{
+        text-align: center;
+    }
+    .collusion__text{
+        text-align: center;
+    }
+}
+
+@media (max-width: 385px){
+    .avone__img-left img{
+        width: 302px;
+        height: 352px;
+    }
+    .update__list-left{
+        padding-left: 20px;
+    }
+}
+@media (max-width: 375px){
+    .category__img-top img{
+        width: 251px;
+        height: 158px;
+    }
+    .category__img-girl1 img{
+        width: 193px;
+        height: 196px;
+    }
+    .category__img-girl2 img{
+        width: 193px;
+        height: 196px;
+    }
+}
+
+@media (max-width: 360px){
+    .collusion__items{
+        margin: 70px 0 0 10px;
+    }
+    .avone__img-left img{
+        width: 252px;
+        height: 302px;
+    }
+}
+@media (max-width: 340px){
+    .avone__img-left img{
+        min-width: 152px;
+        min-height: 202px;
+    }
+}
+@media (max-width: 300px){
+    .collusion__items{
+        margin: 70px 0 0 5px;
+    }
+}
